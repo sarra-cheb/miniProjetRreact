@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "nom": "chebaane",
+      "prenom": "sarra",
+      "email": "sarrach9080@gmail.com",
+      "password": "2545252",
+      "id": 1
+    },
+    {
+      "nom": "chebaane",
+      "prenom": "sarra",
+      "email": "sarrach9080@gmail.com",
+      "password": "2545252",
+      "id": 2
+    },
+    {
+      "nom": "aymen",
+      "prenom": "ddg",
+      "email": "sarrach9080@gmail.com",
+      "password": "2545252",
+      "id": 3
+    }
+  ]
+}
